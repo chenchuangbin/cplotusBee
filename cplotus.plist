@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://7xpxmg.com1.z0.glb.clouddn.com/cplotusBee.ipa</string>
+					<string>http://lotusgo.cplotus-gz.com/lotus/app/cplotusBee.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -19,7 +19,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://www.epeiwang.com/epeiwang/static/theme/images/app_icon_120.png</string>
+					<string>http://lotusgo.cplotus-gz.com/lotus/app/512.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -27,7 +27,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://www.epeiwang.com/epeiwang/static/theme/images/app_icon_120.png</string>
+					<string>http://lotusgo.cplotus-gz.com/lotus/app/57.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
